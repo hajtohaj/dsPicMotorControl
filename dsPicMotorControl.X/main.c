@@ -16,6 +16,7 @@
 
 
 int main(void) {
+    
     //set PLL to have Fosc=80MHz -> Fcy=40MIPS
     _PLLPRE = 1; //N1=3
     _PLLPOST = 0; //N2=2
