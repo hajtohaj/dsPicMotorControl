@@ -14,7 +14,6 @@
 #pragma config FNOSC = FRCPLL  // Oscillator Mode (Internal Fast RC (FRC) w/ PLL)
 #pragma config FWDTEN = OFF    // Watchdog Timer Enable (Watchdog timer enabled/disabled by user software)
 
-
 int main(void) {
     
     //set PLL to have Fosc=80MHz -> Fcy=40MIPS
