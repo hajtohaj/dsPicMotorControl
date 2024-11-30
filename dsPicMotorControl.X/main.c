@@ -24,7 +24,6 @@ int main(void) {
     
     _TRISB5 = 0; //set port pin as output
     
-
     while (1){
         _RB5 = (_LATB5) ? 0:1; //togle PORTB Pin nr 5 
         __delay_us(500000);
