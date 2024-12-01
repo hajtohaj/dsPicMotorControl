@@ -26,4 +26,4 @@ Video:
  - [Create! - 01 Setting up the PIC Microcontroller (Quick and Easy)](https://www.youtube.com/watch?v=CSCDfCr5kDo&t=996s)
 
 Notes:
-- To push to github from MPLAB X "you must create a personal access token to use as a password when authenticating to GitHub" [ref] (https://microchip.my.site.com/s/article/Github-2-factor-authentification-in-MPLAB-X)
+- To push to github from MPLAB X "you must create a personal access token to use as a password when authenticating to GitHub" [ref](https://microchip.my.site.com/s/article/Github-2-factor-authentification-in-MPLAB-X)
