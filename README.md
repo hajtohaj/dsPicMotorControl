@@ -16,6 +16,7 @@ Readings:
 - dsPIC33F/PIC24H Family Reference Manual, published as separate chapters, e.g.
   - [Section 7. Oscillator](https://ww1.microchip.com/downloads/en/DeviceDoc/70186E.pdf)
   - [Section 10. I/O Ports](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/ReferenceManuals/70193D.pdf)
+  - [Quadrature Encoder Interface (QEI)](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU16/ProductDocuments/ReferenceManuals/dsPIC33-PIC24-FRM-Quadrature-Encoder-Interface-QEI-DS70000601D.pdf)
 - [dsPIC33A Programmer's Reference Manual](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU16/ProductDocuments/ReferenceManuals/dsPIC33A-Programmers-Reference-Manual-DS70005540.pdf)
 - [MPLAB XC-DSC C Compiler User's Guide](https://ww1.microchip.com/downloads/aemDocuments/documents/DEV/ProductDocuments/UserGuides/MPLAB-XC-DSC-C-Compiler-User-Guide-DS50003589.pdf)
 - [MPLAB XC-DSC Libraries Reference Manual](https://ww1.microchip.com/downloads/aemDocuments/documents/DEV/ProductDocuments/ReferenceManuals/MPLAB-XC-DSC-Libraries-Reference-Manual-DS50003591.pdf)
