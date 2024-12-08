@@ -1,0 +1,29 @@
+Raport ERC (2024-12-05T00:10:37+0100, Kodowanie UTF8)
+
+***** Arkusz /
+[pin_not_connected]: Pin nie jest podłączony
+    ; error
+    @(7550,00 mils, 3600,00 mils): Symbol U1 Pin 11 [SOSCI/RP4/CN1/PMBE/RB4, Dwukierunkowy, Linia]
+[pin_not_connected]: Pin nie jest podłączony
+    ; error
+    @(4350,00 mils, 4600,00 mils): Symbol U1 Pin 10 [OSC2/CLKO/CN29/PMA0/RA3, Dwukierunkowy, Linia]
+[pin_not_connected]: Pin nie jest podłączony
+    ; error
+    @(4350,00 mils, 4500,00 mils): Symbol U1 Pin 9 [OSC1/CLKI/CN30/RA2, Dwukierunkowy, Linia]
+[pin_not_connected]: Pin nie jest podłączony
+    ; error
+    @(4350,00 mils, 4700,00 mils): Symbol U1 Pin 12 [SOSCO/T1CK/CN0/PMA1/RA4, Dwukierunkowy, Linia]
+[pin_not_connected]: Pin nie jest podłączony
+    ; error
+    @(4350,00 mils, 4300,00 mils): Symbol U1 Pin 2 [AN0/VREF+/CN2/RA0, Dwukierunkowy, Linia]
+[pin_not_connected]: Pin nie jest podłączony
+    ; error
+    @(4350,00 mils, 4400,00 mils): Symbol U1 Pin 3 [AN1/VREF-/CN3/RA1, Dwukierunkowy, Linia]
+[power_pin_not_driven]: Pin wejściowy zasilania nie jest sterowany przez żadne inne piny wyjściowe zasilania
+    ; error
+    @(3100,00 mils, 1100,00 mils): Symbol #PWR03 Pin 1 [Wejście zasilania, Linia]
+[power_pin_not_driven]: Pin wejściowy zasilania nie jest sterowany przez żadne inne piny wyjściowe zasilania
+    ; error
+    @(3700,00 mils, 1600,00 mils): Symbol #PWR04 Pin 1 [Wejście zasilania, Linia]
+
+  ** Liczba wiadomości ERC: 8  Błędów 8  Ostrzeżeń 0
