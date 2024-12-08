@@ -29,3 +29,4 @@ Video:
 
 Notes:
 - To push to github from MPLAB X "you must create a personal access token to use as a password when authenticating to GitHub" [ref](https://microchip.my.site.com/s/article/Github-2-factor-authentification-in-MPLAB-X)
+- Order PCB on https://www.pcbway.com (Using KiCad plugin)
