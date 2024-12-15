@@ -4,7 +4,7 @@ Goal is to learn microchip programming for home use by implementing gradual
 - Read quadrature encoder signal from pololu 37D brushed DC motor; [probably this](https://www.pololu.com/product/4691)
 - Drive motor with PWM using [Dual Serial Motor Controller](https://www.pololu.com/product/2078)
 - Communicate over CAN with older [BeagleBone® Black](https://www.beagleboard.org/boards/beaglebone-black). CAN description on [Microchip Developer Help](https://developerhelp.microchip.com/xwiki/bin/view/applications/can/)
-- PLC1602JHW-FWLW LCD Display [spec](https://www.openhacks.com/uploadsproductos/eone-1602a1.pdf) or [spec](https://www.micros.com.pl/mediaserver/O_LCM162-wfpc_0001.pdf) [spec](https://www.hantronix.com/down/ks0066u.pdf)
+- PLC1602JHW-FWLW LCD Display [spec](https://www.openhacks.com/uploadsproductos/eone-1602a1.pdf) or [spec](https://www.micros.com.pl/mediaserver/O_LCM162-wfpc_0001.pdf) [spec](https://www.hantronix.com/down/ks0066u.pdf), more [info](https://www.gibbard.me/hd44780_lcd_screen/), and [more](https://www.analog.com/media/en/technical-documentation/application-notes/AN-908.pdf) and [more](https://www.alldatasheet.pl/datasheet-pdf/view/63663/HITACHI/HD44780U.html)
 
 Microcontroller: dsPIC33FJ64MC802
 
